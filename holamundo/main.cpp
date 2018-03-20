@@ -4,6 +4,10 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola manuel ;)" << endl;
+    int a,b,c=0;
+    a=5;
+    b=6;
+    c=a+b;
+    cout << c << endl;
     return 0;
 }
